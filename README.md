@@ -1,6 +1,5 @@
 # Meu Gestor de Gastos 💰
-Meu Gestor de Gastos — Aplicativo de Controle Financeiro Pessoal
-Projeto feito em React Native com Snack Expo para controle financeiro pessoal.
+Aplicativo de Controle Financeiro Pessoal - Projeto feito em React Native com Snack Expo para controle financeiro pessoal.
 
 ## Funcionalidades
 - Cadastro de receitas e despesas
